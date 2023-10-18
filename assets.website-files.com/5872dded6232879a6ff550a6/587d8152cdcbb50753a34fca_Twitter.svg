@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="5741 14824.627 26.269 21.015">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1 {
+        clip-rule: evenodd;
+      }
+
+      .cls-3 {
+        opacity: 0.5;
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-5 {
+        fill: #607d8a;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_1538" data-name="Path 1538" class="cls-1" d="M8.261,5.015A15.106,15.106,0,0,0,23.6-10.082c0-.23,0-.459-.016-.687a10.855,10.855,0,0,0,2.689-2.747,10.866,10.866,0,0,1-3.094.835,5.346,5.346,0,0,0,2.369-2.935,10.905,10.905,0,0,1-3.423,1.288,5.455,5.455,0,0,0-7.626-.23,5.261,5.261,0,0,0-1.559,5.07A15.39,15.39,0,0,1,1.828-15.031,5.26,5.26,0,0,0,3.5-7.949a5.413,5.413,0,0,1-2.447-.663v.067a5.331,5.331,0,0,0,4.324,5.2,5.443,5.443,0,0,1-2.432.091A5.385,5.385,0,0,0,7.976.432,10.921,10.921,0,0,1,1.283,2.708,11.22,11.22,0,0,1,0,2.632,15.438,15.438,0,0,0,8.261,5.011" transform="translate(0 16)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_1537" data-name="Path 1537" class="cls-2" d="M-20,236.03H531.642V-158H-20Z" transform="translate(20 158)"/>
+    </clipPath>
+  </defs>
+  <g id="Twitter" class="cls-3" transform="translate(5741 14824.627)">
+    <g id="Group_1314" data-name="Group 1314" class="cls-4" transform="translate(-26.269 -186.507)">
+      <path id="Path_1536" data-name="Path 1536" class="cls-5" d="M-5,13.149H34.4V-21H-5Z" transform="translate(24.701 200.94)"/>
+    </g>
+  </g>
+</svg>
