@@ -10,3 +10,7 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
     --vam: #284F9E;
     --black: #24252b;
 }
+a{
+    text-decoration: none;
+    color: white;
+}
